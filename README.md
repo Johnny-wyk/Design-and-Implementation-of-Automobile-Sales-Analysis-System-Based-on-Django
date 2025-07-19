@@ -5,13 +5,17 @@
 系统管理
 
 <img width="756" height="350" alt="image" src="https://github.com/user-attachments/assets/736b4a70-ae65-40a4-a71d-cadc8811e878" />
+
 可视化大屏
 
 <img width="751" height="407" alt="image" src="https://github.com/user-attachments/assets/895e27bb-dade-4fa2-b3a7-2d22596eeb0d" />
+
 用户社区管理
 
 <img width="746" height="341" alt="image" src="https://github.com/user-attachments/assets/b7721262-d227-4814-834a-362ef935290d" />
+
 后台汽车销售列表及爬取
 
 <img width="708" height="474" alt="image" src="https://github.com/user-attachments/assets/e273d4cf-aa50-46e5-b728-b2306423b34e" />
+
 前台销售信息
